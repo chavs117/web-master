@@ -10,17 +10,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Wyr0X/web.git"
+        "url": "git+https://github.com/chavs117/web-master.git"
     },
     "keywords": [
         "cv"
     ],
-    "author": "Alexis Caraballo",
-    "license": "MIT",
+    "author": "Javier García Mora",
+    "license": "TNM",
     "bugs": {
-        "url": "https://github.com/Wyr0X/web/issues"
+        "url": "https://github.com/chavs117/web-master/issues"
     },
-    "homepage": "https://github.com/Wyr0X/web#readme",
+    "homepage": "https://github.com/chavs117/web-master#readme",
     "dependencies": {
         "@babel/core": "7.10.4",
         "@babel/preset-env": "7.10.4",
