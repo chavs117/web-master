@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Javier García Mora",
+    "short_name": "Javier G.",
+    "version": "1.0.0",
+    "default_locale": "en",
+    "description": "Personal website",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "64x64",
+            "type": "image/png"
+          }
+    ]
+  }
